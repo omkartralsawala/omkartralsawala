@@ -7,6 +7,9 @@
 - 🥅 2021 Goals: increase work productivity and get some exercise
 - 🎮 Fun fact: I love to play video games in my free time
 
+### Spotify Playing 🎧
+[![Spotify](https://spotify-now-playing-swart-iota.vercel.app/api/spotify)](https://open.spotify.com/user/omkar_tralsawala)
+
 ### Connect with me:
 
 [<img align="left" alt="edithautotech.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -34,13 +37,13 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="omkar's GitHub Stats" src="https://github-readme-stats-omkartralsawala.vercel.app/api?username=omkartralsawala&show_icons=true&hide_border=true" />
+  <summary>:zap: Omkar's GitHub Stats</summary>
+  <img align="left" alt="omkar's GitHub Stats" src="https://github-readme-stats-omega-sand.vercel.app/api?username=omkartralsawala&show_icons=true&hide_border=true" />
 
 </details>
 
-[![Spotify](https://spotify-now-playing-swart-iota.vercel.app/api/spotify)](https://open.spotify.com/user/omkar_tralsawala)
+<br />
+<br />
 
 [website]: https://www.edithautotech.com
 [linkedin]: https://www.linkedin.com/in/omkar-tralsawala-ab9668a9
