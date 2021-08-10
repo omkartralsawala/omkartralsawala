@@ -37,7 +37,7 @@
 
 <details>
   <summary>:zap: Omkar's GitHub Stats</summary>
-  <img align="left" alt="omkar's GitHub Stats" src="https://github-readme-stats-omega-sand.vercel.app/api?username=omkartralsawala&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="omkar's GitHub Stats" src="https://github-readme-stats-omega-sand.vercel.app/api?username=omkartralsawala&show_icons=true&hide_border=true&theme=synthwave" />
 
 </details>
 
