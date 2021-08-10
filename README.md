@@ -40,5 +40,7 @@
 
 </details>
 
+[![Spotify](https://spotify-now-playing-swart-iota.vercel.app/api/spotify)](https://open.spotify.com/user/omkar_tralsawala)
+
 [website]: https://www.edithautotech.com
 [linkedin]: https://www.linkedin.com/in/omkar-tralsawala-ab9668a9
