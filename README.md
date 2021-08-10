@@ -33,6 +33,7 @@
 [<img align="left" alt="omkar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
 <details>
   <summary>:zap: Omkar's GitHub Stats</summary>
