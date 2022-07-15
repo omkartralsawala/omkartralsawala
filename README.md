@@ -42,5 +42,5 @@
 </details>
 
 
-[website]: https://www.edithautotech.com
+[website]: https://www.edithautotech.co.in
 [linkedin]: https://www.linkedin.com/in/omkar-tralsawala-ab9668a9
