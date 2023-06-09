@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: increase work productivity and get some exercise
+- 🥅 2023 Goals: increase work productivity and get some exercise
 - 🎮 Fun fact: I love to play video games in my free time
 
 
