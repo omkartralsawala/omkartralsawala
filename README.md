@@ -1,10 +1,10 @@
 ### Hi there, I'm Omkar 👋
 
 ## I'm a Software Developer!!
+- Interested in data sciences and backend software development.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: increase work productivity and get some exercise
 - 🎮 Fun fact: I love to play video games in my free time
 
 
