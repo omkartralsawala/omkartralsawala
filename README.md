@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060B11,100:00E5FF&height=190&section=header&text=Omkar%20Tralsawala&fontColor=E2F1F8&fontSize=42&fontAlignY=34&desc=OMKAR.OS%20%2F%2F%20DATA-SYS%20v4.0&descSize=14&descAlignY=56&animation=fadeIn" width="100%" alt="Omkar Tralsawala" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060B11,100:00E5FF&height=190&section=header&text=Omkar%20Tralsawala&fontColor=E2F1F8&fontSize=42&fontAlignY=34&desc=Senior%20Software%20Engineer%20%C2%B7%20Go%20%C2%B7%20Payments&descSize=14&descAlignY=56&animation=fadeIn" width="100%" alt="Omkar Tralsawala" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=620&height=45&lines=Senior+Software+Engineer+%C2%B7+Data+Systems;SDE-3+%40+HighLevel+%E2%80%94+Payments+Platform;TypeScript+%E2%86%92+Go+migrations;Distributed+%26+data+systems" alt="roles" />
@@ -29,7 +29,7 @@ company:  HighLevel — Payments Platform
 focus:    TypeScript → Go migrations · distributed & data systems
 scale:    millions of records / day · AWS & GCP pipelines
 studying: MSc in AI & Machine Learning — LJMU + IIIT Bangalore
-location: Pune ⇄ Austin, TX · Remote
+location: Open to relocation · Netherlands · UK · Ireland
 ```
 
 - 🛰️ Migrating a compliance-bound payments system from **TypeScript → Golang**.
